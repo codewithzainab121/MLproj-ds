@@ -19,4 +19,4 @@ The dataset has been cleaned, preprocessed, and structured for clustering or fur
 - Extend analysis to predict customer behavior or spending patterns
 
 ## Report
-For a detailed explanation of the project, see [report.pdf](report.pdf)
+For a detailed explanation of the project, see [report.pdf](Customer_segmentation_report.pdf)
